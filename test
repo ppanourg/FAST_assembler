@@ -18,3 +18,4 @@
 		srl $r0, $r1, 0
 		put 15, 1
 		sb $r1, 0
+		halt
